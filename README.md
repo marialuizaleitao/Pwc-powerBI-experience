@@ -41,3 +41,6 @@ Desenvolvi visualizações e defini KPIs relevantes em contratação, promoçõe
 **Reconhecimentos**
 
 Agradecida pela oportunidade proporcionada pela PwC neste estágio virtual, contribuindo para experiências valiosas em visualização de dados, inteligência de negócios e resolução de problemas do mundo real, gerando valor tangível para a empresa.
+
+![certificado](https://github.com/marialuizaleitao/Pwc-powerBI-experience/assets/88951059/4f22ca0e-6a68-48c1-a91d-2f4869c070d8)
+
